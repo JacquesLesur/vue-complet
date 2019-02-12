@@ -1,6 +1,5 @@
 <template>
   <div class="FullPost">
-    <img alt="Vue logo" src="../assets/logo.png">
     <div class="row justify-content-center">
         <div class="row">
         <div class="jumbotron">
